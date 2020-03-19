@@ -1,1 +1,1 @@
-"# estagio-pqtec" 
+Neste repositório encontra-se um relatório detalhado especificando as atividades realizadas no estágio que realizei na Associação Parque Tecnológico de São José dos Campos. Tais atividades englobam implementação e uso de algoritmos de aprendizado de máquina, implementação de back-end para uma plataforma de IoT utilizando Django e Django Rest Framework, e criação de outra plataforma IoT com o uso de do framework Shiny/R.
